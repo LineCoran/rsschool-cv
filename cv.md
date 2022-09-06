@@ -28,8 +28,10 @@ And right now, my goal is to become a professional front-end developer.
 ## Skills
 
 * HTML, CSS
-* JavaScript Basic
+* JavaScript
 * Git/GitHub
+* Webpack
+* Figma
 
 ---
 
@@ -68,7 +70,10 @@ function strCount(obj){
 
 ## Projects
 
-My little project - [_Creating fractales_](https://linecoran.github.io/fractales)
+My first project with html, css and JS - [_Creating fractales_](https://linecoran.github.io/fractales)
+My project about travelling- [_Travel_](https://linecoran.github.io/travel)
+My first single page application - [_Momentum_](https://linecoran.github.io/momentum)
+
 
 ---
 
